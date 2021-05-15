@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project was deployed on Netlify [https://competent-jang-b93ccd.netlify.app](https://competent-jang-b93ccd.netlify.app).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
